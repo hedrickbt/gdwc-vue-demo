@@ -7,6 +7,8 @@
 
 <script>
 import GdwcVueDemo from './components/GdwcVueDemo.vue'
+// import '@gdwc/components/menu'
+
 
 export default {
   name: 'App',
