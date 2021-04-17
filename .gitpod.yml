@@ -8,7 +8,7 @@ tasks:
 
 # Set the following ports public
 ports:
-  - port: 3000
+  - port: 8080
 
 github:
   prebuilds:
